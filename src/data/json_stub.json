@@ -1,12 +1,12 @@
 {
     "basics": {
-        "name": "John Doe",
+        "name": "Vaibhav Arora",
         "label": "Programmer",
-        "picture": "",
-        "email": "john.doe@mail.com",
-        "phone": "(912) 555-4321",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "picture": "https://photos.app.goo.gl/mAofXSovRSishKa38",
+        "email": "varora1406@gmail.com",
+        "phone": "+917696520544",
+        "website": "",
+        "summary": "",
         "location": {
             "address": "2712 Broadway St",
             "postalCode": "CA 94115",
